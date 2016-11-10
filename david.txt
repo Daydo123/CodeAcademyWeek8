@@ -13,3 +13,10 @@ console.log("Good joke? " + myBoolean);
 Exercise 2
 
 console.log('pepperoni','ham');
+
+Exercise 3
+
+console.log(18+3.5)
+console.log(2016-1969)
+console.log(65/240)
+console.log(0.270833*100)
