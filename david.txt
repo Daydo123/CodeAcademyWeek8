@@ -58,3 +58,11 @@ Variables Exercise 1
 
 var strength='50,00 pounds';
 console.log('How much stuff can a variable hold? ', strength);
+
+variables Exercise 2
+
+var strength='50,00 pounds';
+var age=(18);
+console.log(age);
+var hasPet=true
+console.log('How much stuff can a variable hold? ', strength);
